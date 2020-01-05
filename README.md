@@ -10,8 +10,8 @@ Instructions:
 Link: http://shahirktaj.space/
 
 Examples:
-https://imgur.com/QShEq5o/
-https://imgur.com/Byogchr/
+- https://imgur.com/QShEq5o/
+- https://imgur.com/Byogchr/
 
 Bugs:
 - Some balls occasionally fall through the top of the paddle.
