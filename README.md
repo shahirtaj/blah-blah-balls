@@ -22,10 +22,10 @@ Some balls occasionally fall through the top of the paddle.
 The trails can sometimes appear too segmented, and can cause some lag.
 
 Credits:
-The Trail's follow() algorithm was copied from the "Follow 3" example in the Processing documentation (https://processing.org/examples/follow3.html).
+The Trail's follow() algorithm was copied from the ["Follow 3" example](https://processing.org/examples/follow3.html) in the Processing documentation.
 
-The algorithm for having the each mouse click increase the number of Balls was inspired by the "Action Only Once on mousePressed" post on the Processing forum (https://forum.processing.org/one/topic/action-only-once-on-mousepressed.html).
+The algorithm for having the each mouse click increase the number of Balls was inspired by the ["Action Only Once on mousePressed" post](https://forum.processing.org/one/topic/action-only-once-on-mousepressed.html) on the Processing forum.
 
-The conditionals to have the balls collide with the paddle were inspired by the "Brick Breaker" sketch by Raghu Vaidyanathan on OpenProcessing (https://www.openprocessing.org/sketch/134612/).
+The conditionals to have the balls collide with the paddle were inspired by the ["Brick Breaker" sketch by Raghu Vaidyanathan](https://www.openprocessing.org/sketch/134612/) on OpenProcessing.
 
-The Ball's move() algorithm was heavily inspired by the "Bounce" example in the Processing documentation (https://processing.org/examples/bounce.html).
+The Ball's move() algorithm was heavily inspired by the ["Bounce" example](https://processing.org/examples/bounce.html) in the Processing documentation.
