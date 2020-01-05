@@ -13,10 +13,6 @@ Examples:
 https://imgur.com/QShEq5o/
 https://imgur.com/Byogchr/
 
-This system is personally meaningful to me in that it allowed me to explore my creativity and design my first game from scratch. I have always wanted to design games and it was an awesome experience to figure out how I would do so, and how I could manipulate the concept of a game to meet the needs of this assignment. Ultimately, this is my first game and one of my first casual creators, which I am extremely proud of. It is also the first piece of content on my website!
-
-Working on this system challenged me as a computer scientist in many ways. First, I have not worked with Processing before so I really had to learn how to work with by looking through the documentation and examples. I pushed myself out of my comfort zone by trying to design and implement a game that could also act as a casual creator. In this sense, I really had to consider how the user would be interacting with my program and come up with a way for my program to give the user fast feedback. I have also never really worked with websites before, so deploying my project to my own website was also an important challenge for me. Moving forward, I am hoping to design more games, that are much smoother, more captivate, and more interactive than this one.
-
 Bugs:
 Some balls occasionally fall through the top of the paddle.
 The trails can sometimes appear too segmented, and can cause some lag.
