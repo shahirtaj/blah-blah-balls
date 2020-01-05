@@ -7,7 +7,7 @@ Instructions:
 3. Keep clicking to release more balls from your new mouse position.
 4. When you are done painting, tap the space bar to pause the screen, and tap "S" on your keyboard to save your image.
 
-Link: http://shahirktaj.space/
+Live Demo: http://shahirktaj.space/
 
 Examples:
 - https://imgur.com/QShEq5o/
