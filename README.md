@@ -16,7 +16,7 @@ http://shahirktaj.space/
 
 ## Bugs
 - Some balls occasionally fall through the top of the paddle.
-- The trails can sometimes appear too segmented, and can cause some lag.
+- The trails can sometimes appear too segmented and can cause some lag.
 
 ## Credits
 - The Trail's follow() algorithm was copied from the ["Follow 3" example](https://processing.org/examples/follow3.html) in the Processing documentation.
