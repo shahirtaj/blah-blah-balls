@@ -8,7 +8,7 @@ Blah Blah Balls is a casual creator that allows users to create fun drawings whi
 4. When you are done painting, tap the space bar to pause the screen, and tap "S" on your keyboard to save your image.
 
 ## Live Demo
-http://shahirktaj.space/
+<strike>http://shahirktaj.space/</strike>
 
 ## Examples
 - https://imgur.com/QShEq5o/
